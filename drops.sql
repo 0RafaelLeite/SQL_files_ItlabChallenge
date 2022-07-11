@@ -6,5 +6,3 @@ drop table Cartoes;
 drop table Clientes;
 drop table Assinaturas;
 drop table Planos;
-
-
